@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/registro_civil_val_cert_eletr-mcp",
+  "title": "Registro Civil: Validar Certidão Eletrônica",
+  "description": "Registro Civil: Validar Certificate Eletrônica, official-source lookup. Platform-hosted, pay per que",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/registro_civil_val_cert_eletr-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_registro_civil_val_cert_eletr"
+    }
+  ]
+}

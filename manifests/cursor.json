@@ -1,0 +1,8 @@
+{
+  "_comment": "Cole em .cursor/mcp.json (workspace) OU ~/.cursor/mcp.json (global). Reinicie o Cursor.",
+  "mcpServers": {
+    "registro_civil_val_cert_eletr": {
+      "url": "https://api.mcp.ai/p_registro_civil_val_cert_eletr"
+    }
+  }
+}
